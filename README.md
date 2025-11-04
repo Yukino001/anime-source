@@ -1,4 +1,4 @@
-# ACGN
+# anime-comic-source
 Animeko、Mihon 动漫/漫画源库
 
 具体使用方法：
